@@ -1,7 +1,5 @@
-const route = () => {
-  return (
-    <div>route</div>
-  )
-}
+import { NextResponse } from "next/server";
 
-export default route
+export function GET() {
+  return NextResponse.json({ result: "hello" });
+}
