@@ -14,6 +14,9 @@ pnpm dev
 bun dev
 ```
 
+`USE POSTMAN TO SEE THE FUNTIONS OF THE FORM IN THE PAGE`
+`IF YOU DO NOT KNOW HOW T USE IT YOU CAN CONTACT ME OR USE A YT TUTORIAL`
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
