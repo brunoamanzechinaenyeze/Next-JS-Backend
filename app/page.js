@@ -5,6 +5,7 @@ const page = () => {
 
   return (
     <>
+    Hello, This is the Home page
     </>
   );
 };
